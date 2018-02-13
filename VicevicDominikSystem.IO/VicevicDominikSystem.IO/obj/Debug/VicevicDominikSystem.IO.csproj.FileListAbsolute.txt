@@ -1,0 +1,7 @@
+c:\users\učenik\source\repos\VicevicDominikSystem.IO\VicevicDominikSystem.IO\bin\Debug\VicevicDominikSystem.IO.exe.config
+c:\users\učenik\source\repos\VicevicDominikSystem.IO\VicevicDominikSystem.IO\bin\Debug\VicevicDominikSystem.IO.exe
+c:\users\učenik\source\repos\VicevicDominikSystem.IO\VicevicDominikSystem.IO\bin\Debug\VicevicDominikSystem.IO.pdb
+c:\users\učenik\source\repos\VicevicDominikSystem.IO\VicevicDominikSystem.IO\obj\Debug\VicevicDominikSystem.IO.csprojResolveAssemblyReference.cache
+c:\users\učenik\source\repos\VicevicDominikSystem.IO\VicevicDominikSystem.IO\obj\Debug\VicevicDominikSystem.IO.csproj.CoreCompileInputs.cache
+c:\users\učenik\source\repos\VicevicDominikSystem.IO\VicevicDominikSystem.IO\obj\Debug\VicevicDominikSystem.IO.exe
+c:\users\učenik\source\repos\VicevicDominikSystem.IO\VicevicDominikSystem.IO\obj\Debug\VicevicDominikSystem.IO.pdb
